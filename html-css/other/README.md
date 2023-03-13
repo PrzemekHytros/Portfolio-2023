@@ -1,2 +1,2 @@
-# Projekty-HTML-i-CSS
-projekty podczas nauki
+# Other projects
+Good frontend practices
