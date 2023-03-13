@@ -1,2 +1,2 @@
-# Przemek
-Projekt responsywnej witryny internetowej
+# Rensponsive Website
+Responsive webiste project
